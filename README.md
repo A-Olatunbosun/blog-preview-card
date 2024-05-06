@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
 ## Table of contents
 
@@ -30,12 +30,10 @@ Users should be able to:
 ![](./assets/images/Mobile%20View%20Screenshot.jpg)
 ![](./assets/images/Desktop%20View%20Screenshot.JPG)
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click to view solution](https://www.frontendmentor.io/solutions/responsive-blog-card-using-html-and-css-LQaOsk0i2m)
+- Live Site URL: [Click to view live site](https://sparkly-sopapillas-bf25ee.netlify.app/)
 
 ## My process
 
