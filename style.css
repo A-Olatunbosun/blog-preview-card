@@ -51,6 +51,7 @@ button {
   padding: 4px 12px;
   width: 82px;
 }
+
 h2 {
   font-size: 0.875em;
 }
@@ -59,10 +60,6 @@ h1 > a {
   font-size: 1.5em;
   font-weight: 800;
   text-decoration: none;
-}
-
-h1 > a:hover {
-  color: hsl(47, 88%, 63%);
 }
 
 h1 > a:active {
@@ -89,11 +86,13 @@ p {
 .attribution {
   font-size: 0.6875em;
   text-align: center;
+  font-weight: 700;
 }
 
 .attribution a {
   color: hsl(228, 45%, 44%);
   font-size: 14px;
+  font-weight: 800;
 }
 
 @media screen and (max-width: 420px) {
